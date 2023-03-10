@@ -5,4 +5,8 @@ public class Tuong {
     private int id;
 private int hehehehehehehehehehe;
 private String aaaaaaaaaaaaaaaaaa;
+
+    private double point;
+
+
 }
